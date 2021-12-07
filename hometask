@@ -3,3 +3,4 @@
 2) В master существуют коммиты слияния origin/boots в boots_buttons, слияния origin/buttons в boots_buttons, а
 затем уже слияния boots/buttons в master и origin/hat в master. Также имеются промежуточные коммиты: fix readme,
 boots, dots, heat added.
+Видно 14 коммитов
