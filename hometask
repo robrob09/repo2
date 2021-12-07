@@ -1,0 +1,5 @@
+Различия origin/demo и master: (выполнено с помощью Compare: origin/demo and master)
+1) В demo существуют коммиты слияния buttons в origin/demo и слияния boots в origin/demo
+2) В master существуют коммиты слияния origin/boots в boots_buttons, слияния origin/buttons в boots_buttons, а
+затем уже слияния boots/buttons в master и origin/hat в master. Также имеются промежуточные коммиты: fix readme,
+boots, dots, heat added.
